@@ -1,4 +1,8 @@
 Function Get-UserProfile {
+    <#
+    .LINK
+    https://github.com/si-kotic/Manage-UserProfiles
+    #>
     # Param (
     #     [String]$Username
     # )
